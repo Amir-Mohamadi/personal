@@ -1,0 +1,39 @@
+* {padding:0;margin:0;border:0;box-sizing: border-box;}
+nav > ul {margin-left:900px;margin-top:50px;}
+nav > ul > li {list-style:none;display:inline;padding-left:20px;font-size:20px;color:blue;}
+nav > ul > li:hover {color:black;}
+nav > img {width:75px;left:250px;position:absolute;top:30px;}
+#abr-2 {position: absolute;top:90px;right:160px;}
+#abr-1 {position:absolute;top:0;right:1000px;}
+#large_font {font-size:100px;text-align:center;margin-top:150px;}
+#bottom-large-font {margin-left:580px;font-size:x-large;}
+article > img {width:180px;margin-left:600px;margin-top:300px;}
+.align {text-align: center;padding-left:20px;}
+input {margin-left:600px;width:170px;background-color: rgba(59, 113, 230, 0.801);height:40px;border-radius:5px;color:white;font-size: larger;}
+
+.article {height:150px;margin-bottom:20px;}
+.cama {padding-top:40px;padding-bottom:40px;color:blue;}
+.article > img {border-radius: 50%;}
+#img-article1 {float:right;margin-right:250px;margin-top:10px;user-select: none;}
+#font-js {height:140px;float:right;margin-top:5px;margin-right:130px;}
+#font-js > h3 {font-weight:normal;font-size:1.7em;color:blue;}
+#font-js > ul > li {list-style: none;padding-top:5px;font-size:1.1em;}
+#img-article2 {float:left;margin-left:250px;margin-top:10px;user-select: none;}
+#question-1 {height:140px;float:right;margin-top:5px;margin-right:550px;}
+#question-1 > h3 {font-weight:normal;font-size:1.7em;color:blue;padding-top:10px;}
+#question-1 > p {padding-top:5px;font-size:1.1em;}
+#img-article3 {float:right;margin-right:250px;margin-top:10px;user-select: none;}
+#question-2 {height:140px;float:right;margin-top:5px;margin-right:330px;}
+#question-2 > h3 {font-weight:normal;font-size:1.7em;color:blue;padding-top:10px;}
+#question-2 > p {padding-top:5px;font-size:1.1em;}
+
+footer {margin-top:50px;height:250px;background-color: rgba(0, 0, 0, 0.685);}
+footer > ul {margin-left:550px;padding-top:30px;}
+footer > ul > li {list-style:none;display:inline;padding-left:20px;font-size:20px;color:cyan;}
+#footer-icon {height:120px;margin-top:20px;position: relative;padding-top:7px;}
+.img-footer {width:65px;background-color:white;}
+#app-icon {width:470px;margin:20px auto;}
+#app-icon > img {margin-left:40px;margin-top:3px;border-radius: 15px;}
+#app-icon > img:hover {border:2px solid cyan;}
+.admin {width:95px;position: absolute;border-radius:50%;top:10px;left:170px;}
+footer > ul > li:hover {color:white;}
